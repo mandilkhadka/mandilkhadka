@@ -1,55 +1,56 @@
+
 <h1 align="center">Hi 👋, I'm Mandil Khadka</h1>
-<h3 align="center">💻 Full Stack Developer | 💳 FinTech & 🤖 AI Enthusiast | 🎓 B.Sc. in Digital Innovation | 🎯 Le Wagon Graduate</h3>
+<h3 align="center">💻 Full Stack Developer | 💳 FinTech & 🤖 AI Enthusiast | 🎓 Digital Innovation | 🎯 Le Wagon Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🚀+Building+FinTech+%26+AI+Apps;💡+Full+Stack+Developer+in+Tokyo;🧹+Clean+Code+%2B+Product+Thinking;🌍+Bringing+Ideas+to+Life" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=🚀+Building+FinTech+%26+AI+Apps;💡+Full+Stack+Developer+in+Tokyo;🧹+Clean+Code+%2B+Product+Thinking;🌍+Bringing+Ideas+to+Life" alt="Typing Animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" alt="Developer Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="280" alt="Developer Animation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 **Le Wagon Tokyo** – Full Stack Web Development Bootcamp  
-- 🎓 **B.Sc. in Digital Business & Innovation** – Tokyo International University (80% Scholarship)  
+- 🎓 **Le Wagon Tokyo** – Full Stack Web Development Bootcamp Graduate  
+- 🎓 **B.Sc. in Digital Business & Innovation** – Tokyo International University _(80% Scholarship)_  
 - 💡 Passionate about **FinTech**, **AI tools**, and **product-driven development**  
 - 🧠 **TOEIC 950** | **JLPT N3** _(studying for N2)_  
 - 🌐 Languages: English 🇺🇸 | Japanese 🇯🇵 | Hindi 🇮🇳 | Nepali 🇳🇵  
-- 🛠 Currently exploring: `React.js`, `TypeScript`, `Docker`, `AI APIs`  
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured Project  
 
-### 📊 FinanceSync – Full-Stack Finance Management Platform  
+### 📊 FinanceSync – Full-Stack Finance Management Platform _(Coming Soon)_  
 **Live Demo:** [Coming Soon] | **GitHub Repo:** [FinanceSync](#)  
 
-A Ruby on Rails application to **centralize personal & group financial management**, with:  
-- **OCR-based receipt scanning** (Google Vision API, Tesseract.js) for automated expense tracking  
-- **AI-powered spending analysis** (OpenAI API, Python Pandas, Scikit-learn)  
-- **Multi-user collaboration** with shared saving goals & group expense dashboards  
-- **EMI, loan, SIP, and insurance tracking**  
-- **Secure authentication** (Devise, OAuth 2.0, JWT)  
-- **Tech Stack:** Rails, PostgreSQL, Stimulus JS, Bootstrap, Redis, Sidekiq, Plaid API, AWS S3, Heroku, GitHub Actions  
+🔹 A Ruby on Rails application to **centralize personal & group financial management**  
+✅ OCR-based receipt scanning (Google Vision API, Tesseract.js)  
+✅ AI-powered spending analysis (OpenAI API, Python, Pandas)  
+✅ Multi-user collaboration (shared saving goals & dashboards)  
+✅ EMI, loan, SIP, and insurance tracking  
+✅ Secure authentication (Devise, OAuth 2.0, JWT)  
 
 ![FinanceSync Screenshot](https://via.placeholder.com/800x400.png?text=FinanceSync+App+Preview)  
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mandil-khadka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khadkamandil62@gmail.com) 
-
----
-
-## 🧰 Tech Stack  
+## 🌐 Socials  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,ruby,rails,postgres,mysql,mongodb,sqlite,django,docker,git,github,figma,heroku,photoshop,illustrator,python" />
-</p>  
+  <a href="https://linkedin.com/in/mandil-khadka">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:khadkamandil62@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- portfolio-link -->
+</p>
 
 ---
 
@@ -60,21 +61,75 @@ A Ruby on Rails application to **centralize personal & group financial managemen
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandilkhadka&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandilkhadka&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
 </p>  
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mandilkhadka&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+## 🧰 Languages & Tools  
 
+<p align="center">
 
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/WindiCSS-48B0F1?style=for-the-badge&logo=windi-css&logoColor=white" />
 
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<!-- Databases -->
+<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
+<!-- AI / Productivity -->
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 
+<!-- UI/UX -->
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" />
 
+</p>
+
+---
+
+## 🚀 Currently Learning & Future Goals  
+- ⚡ TypeScript + React Ecosystem (Next.js)  
+- 🐳 Docker & DevOps best practices  
+- 🤖 Scaling AI-powered apps with OpenAI + LangChain  
+- ☁️ Cloud Deployment (AWS / GCP)  
+
+---
+
+<p align="center">
+  <b>“Coding with curiosity...”</b>
+</p>
 
