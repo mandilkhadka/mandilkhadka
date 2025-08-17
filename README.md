@@ -131,7 +131,3 @@
 
 ---
 
-<p align="center">
-  <b>“Coding with curiosity...”</b>
-</p>
-
