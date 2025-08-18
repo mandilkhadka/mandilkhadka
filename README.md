@@ -26,6 +26,8 @@
 
 ## 🌟 Featured Project  
 
+[More projects after completed]
+
 ### 📊 FinanceSync – Full-Stack Finance Management Platform _(Coming Soon)_  
 **Live Demo:** [Coming Soon] | **GitHub Repo:** [FinanceSync](#)  
 
@@ -50,6 +52,7 @@
   </a>
 
   <!-- portfolio-link -->
+  Portfolio link after done
 </p>
 
 ---
