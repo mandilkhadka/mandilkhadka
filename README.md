@@ -44,7 +44,7 @@
 
 ## 🌐 Socials  
 <p align="center">
-  <a href="https://linkedin.com/in/mandil-khadka">
+  <a href="https://linkedin.com/in/mandilkhadka">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:khadkamandil62@gmail.com">
