@@ -28,7 +28,7 @@
 
 [More projects after completed]
 
-### 📊 FinanceSync – Full-Stack Finance Management Platform _(Coming Soon)_  
+### 📊 Centsible – Full-Stack Finance Management Platform _(Coming Soon)_  
 **Live Demo:** [Coming Soon] | **GitHub Repo:** [FinanceSync](#)  
 
 🔹 A Ruby on Rails application to **centralize personal & group financial management**  
@@ -127,8 +127,8 @@
 ---
 
 ## 🚀 Currently Learning & Future Goals  
-- ⚡ TypeScript + React Ecosystem (Next.js)  
-- 🐳 Docker & DevOps best practices  
+- ⚡ MERN -- TypeScript + React Ecosystem (Next.js)   
+- 🐳 Docker, AWS & DevOps best practices  
 - 🤖 Scaling AI-powered apps with OpenAI + LangChain  
 - ☁️ Cloud Deployment (AWS / GCP)  
 
