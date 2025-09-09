@@ -26,21 +26,35 @@
 
 ## 🌟 Featured Project  
 
-[More projects after completed]
+## 💰 Centsible – Smart Finance App (Ruby on Rails) 
+**GithubRepo** - https://github.com/mandilkhadka/centsible
 
-### 📊 Centsible – Full-Stack Finance Management Platform _(Coming Soon)_  
-**Live Demo:** [Coming Soon] | **GitHub Repo:** [FinanceSync](#)  
 
-🔹 A Ruby on Rails application to **centralize personal & group financial management**  
-✅ OCR-based receipt scanning (Google Vision API, Tesseract.js)  
-✅ AI-powered spending analysis (OpenAI API, Python, Pandas)  
-✅ Multi-user collaboration (shared saving goals & dashboards)  
-✅ EMI, loan, SIP, and insurance tracking  
-✅ Secure authentication (Devise, OAuth 2.0, JWT)  
+Centsible is an **AI-powered personal finance app** that makes money management simple — **track expenses, set budgets, scan receipts, and visualize savings** with intelligent automation and clean design.  
 
-![FinanceSync Screenshot](https://via.placeholder.com/800x400.png?text=FinanceSync+App+Preview)  
+## ✨ Highlights  
+- 🧾 **AI Expense Tracking** – Receipt scanning & speech-to-text input  
+- 📊 **Smart Dashboards** – Spending & savings visualizations  
+- 💡 **Budget & Goals** – Real-time budgets with alerts  
+- 🔐 **Secure & Scalable** – Devise authentication, PostgreSQL backend  
+
+## 🛠️ Tech Stack  
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  
+![Stimulus.js](https://img.shields.io/badge/Stimulus.js-0F4C81?style=for-the-badge&logo=javascript&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white)  
+![Devise](https://img.shields.io/badge/Devise-000000?style=for-the-badge&logo=ruby&logoColor=white)  
+
+## 👨‍💻 My Role  
+Worked across the **full stack**:  
+- Built **budgeting, savings & categorization** features  
+- Integrated **AI-powered transactions** (OCR + speech-to-text)  
+- Developed **interactive charts & financial dashboards**  
+- Contributed to **backend logic, database design & frontend UI**  
 
 ---
+
+✨ *Centsible empowers users to take control of their finances with AI, automation, and insights.*  
 
 ## 🌐 Socials  
 <p align="center">
