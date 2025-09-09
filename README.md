@@ -28,6 +28,7 @@
 
 ## 💰 Centsible – Smart Finance App (Ruby on Rails) 
 **GithubRepo** - https://github.com/mandilkhadka/centsible
+ || **App Demo** - (Soon)
 
 
 Centsible is an **AI-powered personal finance app** that makes money management simple — **track expenses, set budgets, scan receipts, and visualize savings** with intelligent automation and clean design.  
