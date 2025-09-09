@@ -36,15 +36,8 @@ Centsible is an **AI-powered personal finance app** that makes money management 
 - 🧾 **AI Expense Tracking** – Receipt scanning & speech-to-text input  
 - 📊 **Smart Dashboards** – Spending & savings visualizations  
 - 💡 **Budget & Goals** – Real-time budgets with alerts  
-- 🔐 **Secure & Scalable** – Devise authentication, PostgreSQL backend  
-
-## 🛠️ Tech Stack  
-![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  
-![Stimulus.js](https://img.shields.io/badge/Stimulus.js-0F4C81?style=for-the-badge&logo=javascript&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white)  
-![Devise](https://img.shields.io/badge/Devise-000000?style=for-the-badge&logo=ruby&logoColor=white)  
-
+- 🔐 **Secure & Scalable** – Devise authentication, PostgreSQL backend
+  
 ## 👨‍💻 My Role  
 Worked across the **full stack**:  
 - Built **budgeting, savings & categorization** features  
