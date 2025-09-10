@@ -28,7 +28,7 @@
 
 <h3>💰 Centsible – Smart Finance App (Ruby on Rails) </h3> 
 <h4>Github Repo- https://github.com/GaetanDuq/centsible || App Demo - (Soon)</h4>
-More projects to go here 
+<!-- More projects to go here  -->
 
   
 ---
@@ -40,10 +40,7 @@ More projects to go here
   <a href="mailto:khadkamandil62@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="#"/>
-    Portfolio
-  </a>
+<!--   <a href="#"><img src="#"/>Portfolio</a> -->
 </p>
 
 ---
