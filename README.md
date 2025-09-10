@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me  
 - 🎓 **Le Wagon Tokyo** – Full Stack Web Development Bootcamp Graduate  
 - 🎓 **B.Sc. in Digital Business & Innovation** – Tokyo International University _(80% Scholarship)_  
-- 💡 Passionate about **FinTech**, **AI tools**, and **product-driven development**  
+- 💡 Passionate about 💳 **FinTech**, 🤖 **AI tools**, and **product-driven development**  
 - 🧠 **TOEIC 950** | **JLPT N3** _(studying for N2)_  
 - 🌐 Languages: English 🇺🇸 | Japanese 🇯🇵 | Hindi 🇮🇳 | Nepali 🇳🇵  
 
@@ -28,18 +28,10 @@
 
 <h3>💰 Centsible – Smart Finance App (Ruby on Rails) </h3> 
 <h4>Github Repo- https://github.com/GaetanDuq/centsible || App Demo - (Soon)</h4>
+More projects to go here 
 
-Centsible is an **AI-powered personal finance app** that makes money management simple — **track expenses, set budgets, scan receipts, talk to do anything, and visualize savings** with intelligent automation and clean design.  
-
-**✨ Highlights**
-- 🧾 **AI Expense Tracking** – Receipt scanning & speech-to-text input  
-- 📊 **Smart Dashboards** – Spending & savings visualizations  
-- 💡 **Budget & Goals** – Real-time budgets with alerts  
-- 🔐 **Secure & Scalable** – Devise authentication, PostgreSQL, Pundit Authorization(in-progress)
   
 ---
-  
-
 ## 🌐 Socials  
 <p align="center">
   <a href="https://linkedin.com/in/mandilkhadka">
@@ -123,7 +115,7 @@ Centsible is an **AI-powered personal finance app** that makes money management 
 ---
 
 ## 🚀 Currently Learning & Future Goals  
-- ⚡ MERN Stack--   
+- ⚡ MERN Stack
 - 🐳 Docker, AWS & DevOps best practices  
 - 🤖 Scaling AI-powered apps with OpenAI + LangChain  
 - ☁️ Cloud Deployment (AWS / GCP)  
