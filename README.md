@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mandil Khadka</h1>
-<h3 align="center">💻 Full Stack Developer | 💳 FinTech & 🤖 AI Enthusiast | 🎓 Digital Innovation | 🎯 Le Wagon Graduate</h3>
+<h3 align="center">💻 Full Stack Developer | 💳 FinTech & 🤖 AI Enthusiast | 🎓 B.Sc.Digital Innovation | 🎯 Le Wagon Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=🚀+Building+FinTech+%26+AI+Apps;💡+Full+Stack+Developer+in+Tokyo;🧹+Clean+Code+%2B+Product+Thinking;🌍+Bringing+Ideas+to+Life" alt="Typing Animation" />
@@ -26,29 +26,19 @@
 
 ## 🌟 Featured Project  
 
-## 💰 Centsible – Smart Finance App (Ruby on Rails) 
-**GithubRepo** - https://github.com/mandilkhadka/centsible
- || **App Demo** - (Soon)
+<h3>💰 Centsible – Smart Finance App (Ruby on Rails) </h3> 
+<h4>Github Repo- https://github.com/GaetanDuq/centsible || App Demo - (Soon)</h4>
 
+Centsible is an **AI-powered personal finance app** that makes money management simple — **track expenses, set budgets, scan receipts, talk to do anything, and visualize savings** with intelligent automation and clean design.  
 
-Centsible is an **AI-powered personal finance app** that makes money management simple — **track expenses, set budgets, scan receipts, and visualize savings** with intelligent automation and clean design.  
-
-## ✨ Highlights  
+**✨ Highlights**
 - 🧾 **AI Expense Tracking** – Receipt scanning & speech-to-text input  
 - 📊 **Smart Dashboards** – Spending & savings visualizations  
 - 💡 **Budget & Goals** – Real-time budgets with alerts  
-- 🔐 **Secure & Scalable** – Devise authentication, PostgreSQL backend
+- 🔐 **Secure & Scalable** – Devise authentication, PostgreSQL, Pundit Authorization(in-progress)
   
-## 👨‍💻 My Role  
-Worked across the **full stack**:  
-- Built **budgeting, savings & categorization** features  
-- Integrated **AI-powered transactions** (OCR + speech-to-text)  
-- Developed **interactive charts & financial dashboards**  
-- Contributed to **backend logic, database design & frontend UI**  
-
 ---
-
-✨ *Centsible empowers users to take control of their finances with AI, automation, and insights.*  
+  
 
 ## 🌐 Socials  
 <p align="center">
@@ -58,21 +48,19 @@ Worked across the **full stack**:
   <a href="mailto:khadkamandil62@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <!-- portfolio-link -->
-  Portfolio link after done
+  <a href="#">
+    <img src="#"/>
+    Portfolio
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandilkhadka&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandilkhadka&theme=tokyonight&hide_border=true" height="160"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandilkhadka&theme=tokyonight&hide_border=true&layout=compact" height="160"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mandilkhadka&show_icons=true&theme=tokyonight&hide_border=true" height="145"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandilkhadka&theme=tokyonight&hide_border=true" height="145"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandilkhadka&theme=tokyonight&hide_border=true&layout=compact" height="145"/>
 </p>  
 
 ---
@@ -135,7 +123,7 @@ Worked across the **full stack**:
 ---
 
 ## 🚀 Currently Learning & Future Goals  
-- ⚡ MERN -- TypeScript + React Ecosystem (Next.js)   
+- ⚡ MERN Stack--   
 - 🐳 Docker, AWS & DevOps best practices  
 - 🤖 Scaling AI-powered apps with OpenAI + LangChain  
 - ☁️ Cloud Deployment (AWS / GCP)  
