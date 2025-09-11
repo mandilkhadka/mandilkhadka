@@ -47,9 +47,9 @@
 
 ## 📊 GitHub Stats & Activity  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mandilkhadka&show_icons=true&theme=tokyonight&hide_border=true" height="145" style="display:inline-block; margin-right:10px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mandilkhadka&show_icons=true&theme=tokyonight&hide_border=true" height="140" style="display:inline-block; margin-right:10px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandilkhadka&theme=tokyonight&hide_border=true" height="140" style="display:inline-block; margin-right:10px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandilkhadka&theme=tokyonight&hide_border=true&layout=compact" height="145" style="display:inline-block"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandilkhadka&theme=tokyonight&hide_border=true&layout=compact" height="140" style="display:inline-block"/>
 </p>
 
 
