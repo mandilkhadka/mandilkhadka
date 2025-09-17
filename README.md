@@ -24,18 +24,13 @@
 
 ---
 
-## 🌟 Featured Project  
-  
-<h3>💰 Centsible – Smart Finance App (Ruby on Rails) </h3> 
-<h4>Github Repo- https://github.com/GaetanDuq/centsible || App Demo - (Soon)</h4>
-<!-- More projects to go here  -->
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-  
----
 ## 🌐 Socials  
+
+  
 <p align="center">
+  <a href="https://www.mandil.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/mandilkhadka">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
