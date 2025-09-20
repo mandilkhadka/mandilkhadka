@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mandil Khadka</h1>
-<h3 align="center">💻 Full Stack Developer | 💳 FinTech & 🤖 AI Enthusiast | 🎓 B.Sc.Digital Innovation | 🎯 Le Wagon Graduate</h3>
+<h3 align="center">💻 Full-Stack Developer | 💳 FinTech & 🤖 AI Enthusiast | 🎓 B.Sc.Digital Innovation | 🎯 Le Wagon Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=🚀+Building+FinTech+%26+AI+Apps;💡+Full+Stack+Developer+in+Tokyo;🧹+Clean+Code+%2B+Product+Thinking;🌍+Bringing+Ideas+to+Life" alt="Typing Animation" />
@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 **Le Wagon Tokyo** – Full Stack Web Development Bootcamp Graduate  
+- 🎓 **Le Wagon Tokyo** – Full-Stack Web Development Bootcamp Graduate  
 - 🎓 **B.Sc. in Digital Business & Innovation** – Tokyo International University _(80% Scholarship)_  
 - 💡 Passionate about 💳 **FinTech**, 🤖 **AI tools**, and **product-driven development**  
 - 🌐 **Native-Level English** | **Business-Level Japanese**
