@@ -19,9 +19,7 @@
 - 🎓 **Le Wagon Tokyo** – Full Stack Web Development Bootcamp Graduate  
 - 🎓 **B.Sc. in Digital Business & Innovation** – Tokyo International University _(80% Scholarship)_  
 - 💡 Passionate about 💳 **FinTech**, 🤖 **AI tools**, and **product-driven development**  
-- 🧠 **TOEIC 950** | **JLPT N3** _(studying for N2)_  
-- 🌐 Languages: English 🇺🇸 | Japanese 🇯🇵 | Hindi 🇮🇳 | Nepali 🇳🇵  
-
+- 🌐 **Native-Level English** | **Business-Level Japanese**
 ---
 
 ## 🌐 Socials  
