@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Design%20%26%20Development-1E90FF?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> -->
 </div>
 
 ### 🗄️ Databases
@@ -97,9 +97,9 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Embeddings-7B42BC?style=for-the-badge&logo=vector&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG%20Systems-FF4500?style=for-the-badge&logo=knowledgebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI%20Web%20Apps-007ACC?style=for-the-badge&logo=apollographql&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> -->
+  <!-- <img src="https://img.shields.io/badge/AI%20Web%20Apps-007ACC?style=for-the-badge&logo=apollographql&logoColor=white" /> -->
 </div>
 
 ### ⚡ Systems & Scalability
