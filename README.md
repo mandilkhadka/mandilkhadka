@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandil Khadka</h1>
-<h3 align="center">💻 Full-Stack Developer | 💳 FinTech & 🤖 AI Enthusiast | 🎓 B.Sc.Digital Innovation | 🎯 Le Wagon Graduate</h3>
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI Engineer | 🎓 B.Sc.Digital Innovation | 🎯 Le Wagon Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=🚀+Building+FinTech+%26+AI+Apps;💡+Full+Stack+Developer+in+Tokyo;🧹+Clean+Code+%2B+Product+Thinking;🌍+Bringing+Ideas+to+Life" alt="Typing Animation" loading="lazy" />
@@ -18,7 +18,7 @@
 
 - 🎓 **Le Wagon Tokyo** – Full-Stack Web Development Bootcamp Graduate
 - 🎓 **B.Sc. in Digital Business & Innovation** – Tokyo International University _(80% Scholarship)_
-- 💡 Passionate about 💳 **FinTech**, 🤖 **AI tools**, and **product-driven development**
+- 💡 Passionate about 🤖 **AI tools**, and **product-driven development**
 - 🌐 **Native-Level English** | **Business-Level Japanese**
 
 ---
@@ -39,17 +39,16 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+<!-- ## 📊 GitHub Stats & Activity -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mandilkhadka&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" loading="lazy" style="display:inline-block; margin-right:10px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandilkhadka&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" loading="lazy" style="display:inline-block; margin-right:10px"/>
-</p>
+</p> -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandilkhadka&theme=tokyonight&hide_border=true&layout=compact" height="160" style="display:inline-block"/>
 </p> -->
 
----
 
 ## 🧰 Languages & Tools
 
@@ -98,7 +97,7 @@
   <img src="https://img.shields.io/badge/AI%20Agents-673AB7?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents" loading="lazy" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" loading="lazy" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" loading="lazy" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" loading="lazy" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Claude" loading="lazy" />
 </div>
 
 ---
@@ -119,7 +118,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" loading="lazy" />
-  <img src="https://img.shields.io/badge/Testing-Jest%2FCypress-FF6F61?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Jest/Cypress" loading="lazy" />
 </div>
 
 ---
