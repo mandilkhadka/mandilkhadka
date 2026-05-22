@@ -106,10 +106,11 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" loading="lazy" />
+  <img src="https://img.shields.io/badge/GCP-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="GCP" loading="lazy" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" loading="lazy" />
   <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git GitHub" loading="lazy" />
   <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Pipelines" loading="lazy" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" loading="lazy" />
+  <img src="https://img.shields.io/badge/Terraform-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Terraform" loading="lazy" />
 </div>
 
 ---
